@@ -1,4 +1,4 @@
-### Hi there, I'm Reetesh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="24px"> 
+### Hi there, I'm Reetesh 👋
 
 <!--
 **vyomaaverse/vyomaaverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
