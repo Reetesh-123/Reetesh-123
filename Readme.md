@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ## About Me
 
-- 🎓 Undergraduate student from NIT Bhopal
-- 📝 Majoring in Computer Science and Engineering 
+- 🎓 Graduate from NIT Bhopal
+- 📝 Computer Science and Engineering 
 - 😄 Pronouns: he/him
 - 💬 Talk about tech and algos
 
